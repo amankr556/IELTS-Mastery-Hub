@@ -31,4 +31,3 @@ Designed to meet the BabyCode assignment requirements: modern UI, responsive, cl
 - Tailwind for responsive utility styling
 - Use the `src` folder files as provided
 
-Good luck with the submission!
